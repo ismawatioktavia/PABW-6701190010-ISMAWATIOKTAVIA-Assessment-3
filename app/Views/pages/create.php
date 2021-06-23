@@ -47,7 +47,7 @@
                                 <input type="text" class="form-control" id="deskripsi" name="deskripsi" placeholder="Masukkan Deskripsi">
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Tambah Data</button>
+                        <button type="submit" class="btn btn-danger">Tambah Data</button>
                     </form>
                 </div>
             </div>

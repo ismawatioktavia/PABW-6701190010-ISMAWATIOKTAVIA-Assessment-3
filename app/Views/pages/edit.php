@@ -47,7 +47,7 @@
                                 <input type="text" class="form-control" id="deskripsi" name="deskripsi" value="<?= $deskripsi; ?>">
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Ubah Data</button>
+                        <button type="submit" class="btn btn-danger">Ubah Data</button>
                     </form>
                 </div>
             </div>
